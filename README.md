@@ -1,5 +1,10 @@
 # exchangerateapi-go
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/exchangerateapinet/exchangerateapi-go.svg)](https://pkg.go.dev/github.com/exchangerateapinet/exchangerateapi-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/exchangerateapinet/exchangerateapi-go)](https://goreportcard.com/report/github.com/exchangerateapinet/exchangerateapi-go)
+[![GitHub release](https://img.shields.io/github/v/release/exchangerateapinet/exchangerateapi-go?display_name=tag&sort=semver)](https://github.com/exchangerateapinet/exchangerateapi-go/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Straightforward Go client for exchangerateapi.net with minimal dependencies.
 
 - Website: [exchangerateapi.net](https://exchangerateapi.net)
